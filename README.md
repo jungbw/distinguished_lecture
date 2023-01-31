@@ -1,2 +1,2 @@
-# distinguished_lecture
+# Distinguished Lecture
 repo for Distinguished Lecture
